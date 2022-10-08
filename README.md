@@ -2,8 +2,7 @@
 
 Pagina simples de anuncio sobre design de interiores.
 
-![Preview](./.github/guiburati.github.io_NLW_.png)
-
+(https://github.com/GuiBurati/Pagina-de-anuncio-simples/blob/main/images/Pagina%20simples.png?raw=true)
 
 ## Tecnologias
 
